@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/anim/abc_slide_out_top.xml"
+    }
+]

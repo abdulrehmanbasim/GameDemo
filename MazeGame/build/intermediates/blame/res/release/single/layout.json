@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/game_layout.xml",
+        "source": "/home/omer/Android Projects/MyApplication/MazeGame/src/main/res/layout/game_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/select_maze_layout.xml",
+        "source": "/home/omer/Android Projects/MyApplication/MazeGame/src/main/res/layout/select_maze_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/about_layout.xml",
+        "source": "/home/omer/Android Projects/MyApplication/MazeGame/src/main/res/layout/about_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/dialog.xml",
+        "source": "/home/omer/Android Projects/MyApplication/MazeGame/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/select_maze_row_layout.xml",
+        "source": "/home/omer/Android Projects/MyApplication/MazeGame/src/main/res/layout/select_maze_row_layout.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/omer/.android/build-cache/1083b7fa23591f06dd4297b98212433f701ad2cf/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/omer/Android Projects/MyApplication/MazeGame/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/omer/Android Projects/MyApplication/MazeGame/src/main/res/layout/activity_main.xml"
+    }
+]
